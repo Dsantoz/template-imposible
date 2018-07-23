@@ -1,0 +1,15 @@
+html, body {
+	height: 100vh;
+	width: 100%;
+	background-image: url(../images/bg.png);
+	background-position: 0% 9%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+*{
+	font-family: $f-font;
+	margin: 0;
+	padding: 0;
+}
+

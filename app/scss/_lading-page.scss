@@ -1,0 +1,17 @@
+.content {
+    margin-bottom: 35vw;
+    margin-top: 17vw;
+    width: 100%;
+
+    img-fluid {
+        opacity: 0;
+        transform: translate(0, -40px);
+        transition: .8s;
+    }
+
+        
+    .tShow {
+        opacity: 1;
+        transform: translate(0, 0);
+    } 
+}

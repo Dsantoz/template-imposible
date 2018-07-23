@@ -1,0 +1,23 @@
+.navbar {
+
+    .navbar-brand {
+        color: $w !important;
+        font-size: 3vw !important;
+    }
+
+    .navbar-toggler {
+        background: black;
+    }
+
+    .colllapse {
+
+        .navbar-nav {
+
+            .nav-link {
+                color: $w !important;
+                font-size: 1.3vw;
+            } 
+        }
+    }
+}
+
